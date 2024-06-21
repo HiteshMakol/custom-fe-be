@@ -57,4 +57,4 @@ This will start a server hosting the static content from the build directory.
 Feel free to contribute to this project by submitting pull requests.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details..
